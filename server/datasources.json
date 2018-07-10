@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "API_CW_WebProject": {
+    "host": "",
+    "port": 0,
+    "url": "mysql://root:@localhost/cw_webproject_db",
+    "database": "",
+    "password": "",
+    "name": "API_CW_WebProject",
+    "user": "",
+    "connector": "mysql"
+  }
+}
