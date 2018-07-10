@@ -38,5 +38,13 @@
   "announcement": {
     "dataSource": "API_CW_WebProject",
     "public": true
+  },
+  "category": {
+    "dataSource": "API_CW_WebProject",
+    "public": true
+  },
+  "product_type": {
+    "dataSource": "API_CW_WebProject",
+    "public": true
   }
 }
