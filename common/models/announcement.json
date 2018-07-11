@@ -43,6 +43,10 @@
     "coin": {
       "type": "string",
       "required": true
+    },
+    "idcategory": {
+      "type": "number",
+      "required": true
     }
   },
   "validations": [],
